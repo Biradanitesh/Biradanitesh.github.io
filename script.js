@@ -1,1 +1,1 @@
-alert('alert msg');
+console.log('alert msg');
